@@ -1,0 +1,3 @@
+INDEX VERSION 1.129+C:\Users\USER.USER-PC\Documents\Eclipse-Git\Workshop-Java-Sockets\.metadata\.plugins\org.eclipse.jdt.core
+3023100672.index
+3744094047.index
